@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { Pivot, PivotItem } from 'office-ui-fabric-react/lib/Pivot';
-import { IListItem } from '../../services/IListItem';
+import { IListItem } from '../services/IListItem';
 
 export interface ItemListProps {
     items: IListItem[];

@@ -2,11 +2,11 @@ import * as React from 'react';
 import Progress from './Progress';
 import Welcome from './Welcome';
 import ItemList from './ItemList';
-import IDataProvider from '../../services/IDataProvider';
-import MockListItemsDataProvider from '../../services/MockListItemsDataProvider';
-import { IListItem } from '../../services/IListItem';
-import ConfigProvider from '../../services/ConfigProvider';
-import IConfigProvider from '../../services/IConfigProvider';
+import IDataProvider from '../services/IDataProvider';
+import MockListItemsDataProvider from '../services/MockListItemsDataProvider';
+import { IListItem } from '../services/IListItem';
+import ConfigProvider from '../services/ConfigProvider';
+import IConfigProvider from '../services/IConfigProvider';
 
 export interface AppProps {
   title: string;
