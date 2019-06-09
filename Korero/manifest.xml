@@ -79,11 +79,11 @@
         <bt:Url id="Taskpane.Url" DefaultValue="https://petecuttriss.github.io/Korero/dist/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
-        <bt:String id="GroupLabel" DefaultValue="Kōrero Add-in"/>
-        <bt:String id="TaskpaneButton.Label" DefaultValue="Show Taskpane"/>
+        <bt:String id="GroupLabel" DefaultValue="Kōrero"/>
+        <bt:String id="TaskpaneButton.Label" DefaultValue="Show greetings &amp; sign-offs"/>
       </bt:ShortStrings>
       <bt:LongStrings>
-        <bt:String id="TaskpaneButton.Tooltip" DefaultValue="Opens a pane displaying all available properties."/>
+        <bt:String id="TaskpaneButton.Tooltip" DefaultValue="Opens a pane that provides a selection of Te Reo Māori greetings and sign-offs that you can add to your email message."/>
       </bt:LongStrings>
     </Resources>
   </VersionOverrides>
