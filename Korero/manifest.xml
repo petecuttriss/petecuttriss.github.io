@@ -80,7 +80,7 @@
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GroupLabel" DefaultValue="Kōrero"/>
-        <bt:String id="TaskpaneButton.Label" DefaultValue="Show greetings &amp; sign-offs"/>
+        <bt:String id="TaskpaneButton.Label" DefaultValue="Greetings &amp; sign-offs"/>
       </bt:ShortStrings>
       <bt:LongStrings>
         <bt:String id="TaskpaneButton.Tooltip" DefaultValue="Opens a pane that provides a selection of Te Reo Māori greetings and sign-offs that you can add to your email message."/>
